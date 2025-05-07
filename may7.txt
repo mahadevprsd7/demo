@@ -1,0 +1,5 @@
+10
+0
+30
+40
+This is my 1st git file
